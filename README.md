@@ -139,4 +139,4 @@ Develop a web-based application to allow users to compare calorie counts across 
 This application aims to help users make healthier choices while dining at fast-food chains by offering a straightforward comparison tool. Bolt AI should automate the setup for backend and frontend projects, database schema creation, and basic RESTful API structure as described above.
 
 ## Tutorials
-<a  href="http://www.youtube.com/watch?feature=player_embedded&v=XZfQ0AQBHEA "  target="_blank"><img  src="http://img.youtube.com/vi/XZfQ0AQBHEA /0.jpg"  alt="🚀 Revolutionizing Dev: Build a Fast Food Calorie Comparison App with ChatGPT, Bolt AI, and Cursor AI"  width="240"  height="180"  border="10"  /></a>
+<a  href="http://www.youtube.com/watch?feature=player_embedded&v=XZfQ0AQBHEA"  target="_blank"><img  src="http://img.youtube.com/vi/XZfQ0AQBHEA/0.jpg"  alt="🚀 Revolutionizing Dev: Build a Fast Food Calorie Comparison App with ChatGPT, Bolt AI, and Cursor AI"  width="240"  height="180"  border="10"/></a>
