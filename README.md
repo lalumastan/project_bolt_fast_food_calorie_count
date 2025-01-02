@@ -1,4 +1,25 @@
+
 # Fast Food Calorie Comparison Application
+
+
+##  Workflow Summary
+![Alt text](wf.png)
+<details>
+<summary></summary>
+
+```mermaid
+graph TD
+    A([Start with ChatGPT prompt]) --> B{{Request ChatGPT to ask clarifying questions}}
+    B --> C(Refine and finalize the perfect prompt for Bolt AI)
+    C --> D[(Use the prompt on Bolt AI<br/>Register Free on Bolt if needed<br/>Complete and run the application on Bolt)]    
+    D --> G([Download the code from Bolt])
+    G --> H[[Run the code locally using your favorite IDE]]
+    G --> I([Alternatively, download code from GitHub:<br/>lalumastan/project_bolt_fast_food_calorie_count]) --> H
+    H --> J{Satisfied<br/>with the<br/>application?}
+    J -->|Yes| K((Process<br/>complete))
+    J -->|No| A   
+```
+</details>
 
 ## Application Purpose:
 Develop a web-based application to allow users to compare calorie counts across popular fast-food chains, including McDonald's, Burger King, Chipotle, Chick-fil-A, KFC, and Popeyes. The application should provide nutritional insights into meals and help users make informed dietary decisions.
@@ -116,3 +137,6 @@ Develop a web-based application to allow users to compare calorie counts across 
 
 ### Final Notes
 This application aims to help users make healthier choices while dining at fast-food chains by offering a straightforward comparison tool. Bolt AI should automate the setup for backend and frontend projects, database schema creation, and basic RESTful API structure as described above.
+
+## Tutorials
+<a  href="http://www.youtube.com/watch?feature=player_embedded&v=GwbifpKRAIU"  target="_blank"><img  src="http://img.youtube.com/vi/GwbifpKRAIU/0.jpg"  alt="🚀 Run AI Models Locally & Offline FAST! | Step-by-Step Setup for WSL, Ollama, & Docker Desktop"  width="240"  height="180"  border="10"  /></a>
